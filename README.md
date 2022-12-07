@@ -44,5 +44,5 @@ Run "npm install" (to install dependencies), Run "node index.js"
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](https://drive.google.com/file/d/1MFNnTXWAJGITuYvx-eY24XHxSUJUA6Ev/view)
+[Link of video displaying application functionality](https://drive.google.com/file/d/1MFNnTXWAJGITuYvx-eY24XHxSUJUA6Ev/view)
 
