@@ -1,0 +1,11 @@
+{
+    "name": "team-profile-generator",
+    "lockfileVersion": 2,
+    "requires": true,
+    "packages": {},
+    "dependencies": {
+      "inquirer": "^8.2.5"
+      
+    }
+  }
+  
